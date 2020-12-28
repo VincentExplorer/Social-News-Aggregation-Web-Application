@@ -3,8 +3,9 @@ Hi everyone! Welcome to Vincent's school project.
 
 I am currenly looking for full-stack web developer internships or full-time jobs.
 
-If you would like to help me out, please write me email at Wencheng.Zhao@baruchmail.cuny.edu, 
-or find me on LinkedIn https://www.linkedin.com/in/wenchengzhao/, much appreciated!
+If you would like to help me out, please write me email at Wencheng.Zhao@baruchmail.cuny.edu, much appreciated!
+
+Or perhaps you want find me on LinkedIn: https://www.linkedin.com/in/wenchengzhao/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
 
